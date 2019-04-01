@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralSightASP.NET", "PluralSightASP.NET\PluralSightASP.NET.csproj", "{13EFE0E5-FA31-4FCE-A457-5F84AE8EF9B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluralSightClassLibrary", "PluralSightClassLibrary\PluralSightClassLibrary.csproj", "{EEF55CA1-1C76-4B50-B3C3-DFC2F9B7EC47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13EFE0E5-FA31-4FCE-A457-5F84AE8EF9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EFE0E5-FA31-4FCE-A457-5F84AE8EF9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EFE0E5-FA31-4FCE-A457-5F84AE8EF9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EFE0E5-FA31-4FCE-A457-5F84AE8EF9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF55CA1-1C76-4B50-B3C3-DFC2F9B7EC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF55CA1-1C76-4B50-B3C3-DFC2F9B7EC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF55CA1-1C76-4B50-B3C3-DFC2F9B7EC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF55CA1-1C76-4B50-B3C3-DFC2F9B7EC47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9BC49A9-80C7-4E42-824A-87FA26FD631C}
+	EndGlobalSection
+EndGlobal
